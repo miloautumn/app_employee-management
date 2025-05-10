@@ -1,5 +1,5 @@
 {
-  "name": "app_employee-management",
+  "name": "app_employee-management_server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
